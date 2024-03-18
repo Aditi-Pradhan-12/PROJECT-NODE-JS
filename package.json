@@ -1,0 +1,20 @@
+{
+  "name": "project-node-js",
+  "version": "1.0.0",
+  "description": "server application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditi-Pradhan-12/PROJECT-NODE-JS.git"
+  },
+  "author": "aditi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aditi-Pradhan-12/PROJECT-NODE-JS/issues"
+  },
+  "homepage": "https://github.com/Aditi-Pradhan-12/PROJECT-NODE-JS#readme"
+}

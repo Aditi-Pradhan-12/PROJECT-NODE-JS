@@ -1,0 +1,22 @@
+npm- Node Package Manager
+## commands:
+    >>>>VS CODE COMMANDS (INITIALIZE GIT REPO)
+    >>git init
+    >>git remote add origin <git repo url>
+
+    >>>>TERMINAL
+    >>npm init
+
+## STATUS CODES:
+    >>200 SERIES- CRED OPERATIONS (CREATE, READING, UPDATING, DELETION)
+    >>200 - SUCCESS RESPONSE
+    >>300 - REDIRECTION MSG
+    >>400 - SERVER ERRORS 
+    >>500 - INTERNAL ERRORS
+    >>201 - FOR CREATION
+    >>202 - FOR REQUEST ACCEPTANCE
+    >>203 - FOR NON-AUTHENTICATE INFO
+    >>404 - SERVER NOT FOUND
+    >>400 - BAD REQUEST
+    >>401 - UNAUTHORISED
+    >>501 - NOT IMPLEMENTED
