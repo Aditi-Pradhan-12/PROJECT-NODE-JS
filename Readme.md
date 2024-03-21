@@ -44,3 +44,12 @@ There are two types of dependency packages, namely- 1.DEPENDENCIES
 As a developer, we'll be appending many things in our server as per the need and it's very tidious for us to kill and restart the server for every append. SO TO AVOID THE THINGS LIKE THIS, WE USE A PACKAGE CALLED AS "nodemon".
 
 to install nodemon, run this command: npm i nodemon
+
+## HTTP METHODS:
+    >>GET- used to get data from the DB through server
+    >>POST- sending some data to the DB through the server
+    >>DELETE- delete some data
+    >>PATCH- updating some or minimal fields
+    >>PUT- full update
+
+DATA IN JSON FILE WILL BE SENT IN TERMS OF "chunks" of data/data bits.
